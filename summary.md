@@ -1,16 +1,23 @@
-# FMCG Unit Transformation
+## FMCG-Unit-Transformation
 
-**Overview:**  
-The FMCG unit focuses on packing consumer products into pouches and tins. Originally, it required 36 Packing Assistants and three Supervisors, resulting in high overhead costs and inefficient resource usage.
+FMCG Unit Transformation – 3F Industries, India
 
-**Steps Taken:**  
-- Implemented a piece-rate pay model, eliminating the need for 36 Packing Assistants.
-- Trained Operators to take on extra responsibilities, reducing Supervisors from 3 to 2.
-- Assigned one person on general shift to handle SAP entries, inventory, and daily reports.
-- Introduced modular racking to boost storage capacity by 40%.
-- Adopted demand-buffer inventory planning to ensure smooth production in all seasons.
+Overview:
 
-**Results:**  
-- Significant cost savings through reduced headcount and overhead.
+Spearheaded operational transformation within a fast-moving consumer goods (FMCG) packing unit to improve labour productivity, space utilisation, and cost-efficiency.
+
+Key Achievements:
+
+• Introduced a piece-rate pay model, optimising labour deployment and reducing 36 FTEs.
+
+• Upskilled operators, enabling a reduction in shift supervisors from 3 to 2.
+
+• Installed modular racking systems, increasing storage capacity by 40% without expansion
+.
+• Implemented demand-buffer inventory planning, ensuring production continuity during demand shifts.
+
+Keywords:
+
+FMCG | Lean Operations | Labour Optimisation | Inventory Planning | Process Improvement | Space Utilisation | Workforce Efficiency | Modular Storage | Cost Reduction
 - Continuous profitability, even in off-season periods.
 - No idle manpower or resource waste.
